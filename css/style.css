@@ -1,0 +1,30 @@
+h1 {
+		color: black;
+		font-size: 45px;
+        font-weight:bold;
+}
+
+h2 {
+		color: black;
+		font-size: 25px;
+        font-weight:bold;
+}
+
+h4 {
+		color: black;
+		font-size: 20px;
+        font-weight:bold;
+}
+
+img {
+	max-width: 100%;
+}
+
+body {background-color:#e6e6e6;
+}
+
+p {font-weight:bold;
+   }
+
+ul {font-weight:bold;}
+
